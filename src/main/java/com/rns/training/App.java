@@ -1,7 +1,7 @@
 package com.rns.training;
 
 /**
- * Hello world!
+ * Hello world Hello pirates!
  *
  */
 public class App 
