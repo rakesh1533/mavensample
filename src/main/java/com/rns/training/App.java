@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World! Welcome to Digiinfotek" );
+        System.out.println( "Hello People this 2020 entire corona year" );
     }
 }
